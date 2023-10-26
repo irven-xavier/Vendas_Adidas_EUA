@@ -146,6 +146,7 @@ with col5:
 
 hide_st_style = """
             <style>
+            header {visibility: hidden;}
             footer {visibility: hidden;}
             </style>
             """
