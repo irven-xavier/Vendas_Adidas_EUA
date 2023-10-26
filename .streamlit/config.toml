@@ -1,5 +1,7 @@
 [theme]
 # Primary accent color for interactive elements.
+base="light"
+
 primaryColor = "#E000000"
 
 # Background color for the main content area.
