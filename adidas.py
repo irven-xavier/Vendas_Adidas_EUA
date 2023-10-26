@@ -146,6 +146,7 @@ with col5:
 
 hide_st_style = """
             <style>
+            button[kind="header"][data-testid="baseButton-header"] {display: none;}
             footer {visibility: hidden;}
             </style>
             """
