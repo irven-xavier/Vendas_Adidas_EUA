@@ -31,3 +31,5 @@ Permitir que o usuário explore as vendas da Adidas nos EUA com base em filtros 
 - Faturamento por mês
 
 - Faturamento por região
+
+[Link do Dashboard](https://vendasadidaseua.streamlit.app/)
